@@ -7,3 +7,5 @@ if name in ban_users:
 else:
     print("ну привет")
 
+    # comment 1st
+
